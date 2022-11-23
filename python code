@@ -3,3 +3,7 @@ b=8
 print(a and b)
 print(a or b)
 print(not b)
+
+for i in range(6)
+     if(i==0)
+     print(i)
