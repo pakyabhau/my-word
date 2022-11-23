@@ -1,0 +1,5 @@
+a=9
+b=8
+print(a and b)
+print(a or b)
+print(not b)
